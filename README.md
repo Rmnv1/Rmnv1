@@ -1,4 +1,4 @@
-# Igor Viklushkin
+# Hello, my name is Igor
 
 <div align="center"> 
   <a href="mailto:viklushkin.igor@yandex.ru"><img alt="mail icon" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
