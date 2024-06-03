@@ -1,11 +1,21 @@
-<h1 align="center">Hi 👋, I'm Igor</h1>
-- 🔭 I’m currently working on [Finn Flare](https://finn-flare.ru)
+# Igor Viklushkin
 
-- 📫 How to reach me **viklushkin.igor@yandex.ru**
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:viklushkin.igor@yandex.ru)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=tg: @rmnv1)](tg: @rmnv1)
+[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
+
+
+
+
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Vue%20JS-05122A?style=flat&logo=Vue-JS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=Nuxt&color=353535)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
+</div>
